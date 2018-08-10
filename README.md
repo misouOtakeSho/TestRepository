@@ -8,7 +8,4 @@
 :pencil2:
 テスト
 
-
-:baby:
-
 :iphone:
